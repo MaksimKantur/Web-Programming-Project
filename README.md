@@ -1,12 +1,7 @@
-# How to Create a Dating Web App In Node Js [with CometChat Javascript SDK]
+# How to Create a Dating Web App In Node Js 
+We are following this tutorial:
+ [**>> How to Create a Dating Web App In Node Js [with CometChat Javascript SDK]**](https://www.cometchat.com/tutorials/#)
 
-Read the full tutorial here: [**>> How to Create a Dating Web App In Node Js [with CometChat Javascript SDK]**](https://www.cometchat.com/tutorials/#)
-
-How to Create a Dating Web App In Node Js [with CometChat Javascript SDK]:
-
-![How to Create a Dating Web App In Node Js [with CometChat Javascript SDK]](/screenshots/0.gif)
-
-<center><figcaption>Dating Web App In Node Js [with CometChat Javascript SDK]</figcaption></center>
 
 ## Technology
 
@@ -64,13 +59,3 @@ or
 npx nodemon index.js
 ```
 14. Make sure to include the .env file and the config.js file in your gitIgnore file from being exposed online.
-
-Questions about running the demo? [Open an issue](https://github.com/hieptl/tinder-clone/issues). We're here to help ✌️
-
-## Useful links
-- 🏠 [CometChat Homepage](https://app.cometchat.com/signup)
-- 🏠 [CometChat Widget](https://prodocs.cometchat.com/v2.1/docs/web-chat-widget)
-- 🚀 [Create your free account](https://app.cometchat.com/apps)
-- 📚 [Documentation](https://prodocs.cometchat.com)
-- 👾 [GitHub](https://www.github.com/cometchat-pro)
-- ✨ [Live Demo]()

@@ -1,2 +1,8 @@
 https://github.com/cometchat-pro-tutorials/tinder-clone#readme
 https://github.com/joeythelantern/MERN-Stack-Typescript-Blog/tree/main/client
+
+
+In the client folder, all modules should be implemented.
+So all the routes on tinder-clone are on server (more logical)
+ IN folder sercer/src the example of server.ts and index,js
+ 
